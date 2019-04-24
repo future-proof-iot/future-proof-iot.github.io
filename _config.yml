@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: RIOT-fp
+description: A cybersecurity-oriented RIOT distribution
+show_downloads: "false"
