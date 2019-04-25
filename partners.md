@@ -4,7 +4,7 @@ The RIOT-fp project is driven by Inria. The below teams collaborate on this proj
 
 - **TRiBE**, Inria Saclay (contact: Emmanuel Baccelli)
 - **EVA** (contact: Malisa Vucinic)
-- **GRACE**,(contact: Benjamin Smith)
+- **GRACE** (contact: Benjamin Smith)
 - **PROSECCO** (contact: karthikeyan Bhargavan)
 - **TEA** (contact: Jean-Pierre Talpin)
 - **CELTIQUE** (contact: David Pichardie)
