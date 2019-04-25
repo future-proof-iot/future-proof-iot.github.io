@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About RIOT-fp
 
-You can use the [editor on GitHub](https://github.com/future-proof-iot/future-proof-iot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+RIOT-fp is a research project on cyber-security targeting low-end, microcontroller-based IoT devices, on which run operating systems such as [RIOT](https://github.com/RIOT-OS/RIOT) and a low-power network stack.
+Taking a global and practical approach, RIOT-fp gathers partners planning to enhance RIOT with an array of security mechanisms. The main challenges tackled by RIOT-fp are:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. developing high-speed, high-security, low-memory IoT crypto primitives,
+2. providing guarantees for software execution on low-end IoT devices, and
+3. enabling secure IoT software updates and supply-chain, over the network.
 
-### Markdown
+Beyond academic outcomes, the output of RIOT-fp is open source code published, maintained and integrated in the open source ecosystem around RIOT. As such, RIOT-fp strives to contribute usable building blocks for an open source IoT solution improving the typical functionality vs. risk tradeoff for end-users.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/future-proof-iot/future-proof-iot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
