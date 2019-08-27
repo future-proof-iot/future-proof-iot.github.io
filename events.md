@@ -12,7 +12,7 @@ RIOT 2019.04 is now [available](https://github.com/RIOT-OS/RIOT/releases/tag/201
 
 The RIOT-fp [website](https://future-proof-iot.github.io) lauched!
 
-## 20.04.2019: RIOT-fp project start
+## 20.03.2019: RIOT-fp project start
 
 The RIOT-fp project lauched!
 
