@@ -1,8 +1,11 @@
 # Latest News & Events
 
+## 10.09.2019: Applicability of Refinement Type Theory for Embedded IoT Logic
+We have published a [paper investigating the applicability of refinement type theory to low-end IoT devices](https://ieeexplore.ieee.org/abstract/document/8715067). In practice, we consider the simple yet challenging verification of a stepper motor controller. The paper overviews the constraints which challenge thorough verification using F*. This study encompasses not only software artefacts such as the OS running on the device, but also physical artefacts, including a discrete real-time abstraction of its hardware architecture. A version of the paper not behind a paywall is also available [here](https://www.irisa.fr/prive/talpin/papers/date19.pdf).
+
 ## 27.08.2019: IETF steps towards authenticated key exchange for OSCORE
 
-A new working group called [LAKE](https://datatracker.ietf.org/wg/lake/about/)(Lightweight Authenticated Key Exchange) is being chartered in the IETF aiming to design a [key exchange](https://tools.ietf.org/html/draft-selander-lake-reqs) protocol for OSCORE. OSCORE is an application-layer protection mechanism for CoAP used in 6TiSCH networks. The LAKE outcome is important for RIOT-fp as one of our objectives is to design a zero-touch secure joining protocol for Internet of Things networks, with dependency on both OSCORE and LAKE.
+A new working group called [LAKE](https://datatracker.ietf.org/wg/lake/about/) (Lightweight Authenticated Key Exchange) is being chartered in the IETF aiming to design a [key exchange](https://tools.ietf.org/html/draft-selander-lake-reqs) protocol for OSCORE. OSCORE is an application-layer protection mechanism for CoAP used in 6TiSCH networks. The LAKE outcome is important for RIOT-fp as one of our objectives is to design a zero-touch secure joining protocol for Internet of Things networks, with dependency on both OSCORE and LAKE.
 
 ## 07.06.2019: New publication on secure IoT firmware update
 
