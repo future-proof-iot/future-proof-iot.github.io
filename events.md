@@ -1,7 +1,10 @@
 # Latest News & Events
 
+## 19.09.2019: RIOT-fp Workshop Fall 2019
+The first RIOT-fp workshop takes place in Paris on Sept. 19th 2019. Here is the [agenda](workshops/RIOT-fp-Workshop-2019-09-19-kickoff.md).
+
 ## 10.09.2019: Applicability of Refinement Type Theory for Embedded IoT Logic
-We have published a [paper investigating the applicability of refinement type theory to low-end IoT devices](https://ieeexplore.ieee.org/abstract/document/8715067). In practice, we consider the simple yet challenging verification of a stepper motor controller. The paper overviews the constraints which challenge thorough verification using F*. This study encompasses not only software artefacts such as the OS running on the device, but also physical artefacts, including a discrete real-time abstraction of its hardware architecture. A version of the paper not behind a paywall is also available [here](https://www.irisa.fr/prive/talpin/papers/date19.pdf).
+We have published a paper investigating the [applicability of refinement type theory to IoT devices](https://ieeexplore.ieee.org/abstract/document/8715067). In practice, we consider the simple yet challenging verification of a stepper motor controller. The paper overviews the constraints which challenge thorough verification using F*. This study encompasses not only software artefacts such as the OS running on the device, but also physical artefacts, including a discrete real-time abstraction of its hardware architecture. A version of the paper not behind a paywall is also [available](https://www.irisa.fr/prive/talpin/papers/date19.pdf).
 
 ## 27.08.2019: IETF steps towards authenticated key exchange for OSCORE
 
