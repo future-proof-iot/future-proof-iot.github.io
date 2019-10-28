@@ -44,8 +44,8 @@ a {
   text-decoration:none;
 }
 
-a:hover, a:focus {
-//a:hover {
+// a:hover, a:focus {
+a:hover {
   color:#069;
 //  font-weight: bold;
 }
@@ -152,8 +152,8 @@ ul.downloads {
   height:34px;
 }
 
-.downloads a:hover, .downloads a:focus {
-//.downloads a:hover, .downloads {
+//.downloads a:hover, .downloads a:focus {
+.downloads a:hover, .downloads {
   color:#675C5C;
 //  font-weight:bold;
 }
