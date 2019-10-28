@@ -2,7 +2,6 @@
 ---
 
 @import "jekyll-theme-minimal";
-//@import "{{ site.theme }}";
 @import "fonts";
 @import "rouge-github";
 
@@ -46,7 +45,8 @@ a {
 
 // a:hover, a:focus {
 a:hover {
-  color:#069;
+//  color:#069;
+  color:#273;
 //  font-weight: bold;
 }
 
