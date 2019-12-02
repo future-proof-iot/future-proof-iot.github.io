@@ -1,5 +1,8 @@
 # Latest News & Events
 
+## 15.11.2019: New RIOT Release with Initial SUIT Support
+The latest release ([Release-2019.10](https://github.com/RIOT-OS/RIOT/releases/tag/2019.10)) of RIOT is now available. This release brings a number of improvements and additional features, including initial support for SUIT-compliant secure IoT firmware updates, over the network. Check out this [example](https://github.com/RIOT-OS/RIOT/tree/master/examples/suit_update) which you could reproduce on your favorite low-power hardware!
+
 ## 19.09.2019: RIOT-fp Workshop Fall 2019
 The first RIOT-fp workshop takes place in Paris on Sept. 19th 2019. Here is the [agenda](workshops/RIOT-fp-Workshop-2019-09-19-kickoff.md).
 
