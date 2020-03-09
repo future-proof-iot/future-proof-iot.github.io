@@ -2,7 +2,7 @@
 
 ### 28.02.2020: Demo of early RIOT-fp prototype at European Commission (Brussels)
 
-At H2020 SPARTA project review at Brussels European Commission, a [preliminary prototype demo of RIOT-fp]((files/(2020-02)-SPARTA-RIOT-fp-demo.pdf)) was presented, demonstrating secure low-power IoT firmware update on an indoor air quality monitor.
+At H2020 SPARTA project review at Brussels European Commission, a [preliminary prototype demo of RIOT-fp](https://future-proof-iot.github.io/files/(2020-02)-SPARTA-RIOT-fp-demo.pdf) was presented, demonstrating secure low-power IoT firmware update on an indoor air quality monitor.
 
 ### 19.02.2020: Draft Requirements Document for the LAKE protocol
 The IETF has issued its last call for our draft [requirements for the LAKE protocol](https://tools.ietf.org/html/draft-ietf-lake-reqs-01).
