@@ -5,10 +5,9 @@ title: RIOT-fp : A cybersecurity-oriented distribution of RIOT
 
 ## Contact
 
-- Email: for more information, contact Emmanuel Baccelli (**emmanuel.baccelli@inria.fr**).</br>
-</br>
+- _Email_: for more information, contact Emmanuel Baccelli (**emmanuel.baccelli@inria.fr**).
 
-- GitHub: check out RIOT-fp on [GitHub](https://github.com/future-proof-iot/RIOT-fp).
+- _Github_: check out RIOT-fp on [GitHub](https://github.com/future-proof-iot/RIOT-fp).
 
 
 

@@ -32,7 +32,7 @@ navbar_list:
   link: /
 - name: About
   link: about
-- name: News & Events
+- name: Activity
   link: events
 - name: Partners
   link: partners
