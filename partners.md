@@ -1,4 +1,9 @@
-# Partners 
+---
+layout: default
+title: RIOT-fp : A cybersecurity-oriented distribution of RIOT
+---
+
+# Partners & Supporters
 
 The RIOT-fp project is driven by Inria. The below teams collaborate on this project:
 
