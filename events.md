@@ -1,4 +1,16 @@
-## Latest News & Events
+## Activities & Events
+
+### 28.02.2020: Demo of early RIOT-fp prototype at European Commission (Brussels)
+
+At H2020 SPARTA project review at Brussels European Commission, a [preliminary prototype demo of RIOT-fp]((files/(2020-02)-SPARTA-RIOT-fp-demo.pdf)) was presented, demonstrating secure low-power IoT firmware update on an indoor air quality monitor.
+
+### 19.02.2020: Draft Requirements Document for the LAKE protocol
+The IETF has issued its last call for our draft [requirements for the LAKE protocol](https://tools.ietf.org/html/draft-ietf-lake-reqs-01).
+
+### 06.02.2020: Preliminary design of a zero-touch enrollment protocol
+We have published a [preliminary design for a zero-touch enrollment protocol](https://tools.ietf.org/html/draft-selander-ace-ake-authz-00) based on LAKE.
+
+
 
 ### 15.11.2019: New RIOT Release with Initial SUIT Support
 The latest release ([Release-2019.10](https://github.com/RIOT-OS/RIOT/releases/tag/2019.10)) of RIOT is now available. This release brings a number of improvements and additional features, including initial support for SUIT-compliant secure IoT firmware updates, over the network. Check out this [example](https://github.com/RIOT-OS/RIOT/tree/master/examples/suit_update) which you could reproduce on your favorite low-power hardware!
