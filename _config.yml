@@ -32,10 +32,10 @@ navbar_list:
   link: /
 - name: About
   link: about
-- name: Partners
-  link: partners
 - name: News & Events
   link: events
+- name: Partners
+  link: partners
 - name: Contact
   link: contact
 #- name: Registration
